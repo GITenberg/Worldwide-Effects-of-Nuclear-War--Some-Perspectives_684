@@ -1,0 +1,24 @@
+_repo: Worldwide-Effects-of-Nuclear-War--Some-Perspectives_684
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Arms Control and Disarmament Agency
+    alias: U.S. Arms Control and Disarmament Agency
+    gutenberg_agent_id: '351'
+    url: http://www.gutenberg.org/2009/agents/351
+description: ''
+gutenberg_issued: '1996-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nuclear warfare -- Environmental aspects'
+- !lcsh 'Radioactive fallout'
+- !lcc 'UF'
+- GITenberg
+title: 'Worldwide Effects of Nuclear War: Some Perspectives'
+url: http://www.gutenberg.org/ebooks/684
